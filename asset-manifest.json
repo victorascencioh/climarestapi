@@ -1,13 +1,13 @@
 {
   "main.css": "/climarestapi/static/css/main.e8630c50.chunk.css",
-  "main.js": "/climarestapi/static/js/main.8e95594d.chunk.js",
-  "main.js.map": "/climarestapi/static/js/main.8e95594d.chunk.js.map",
+  "main.js": "/climarestapi/static/js/main.02ee2e6a.chunk.js",
+  "main.js.map": "/climarestapi/static/js/main.02ee2e6a.chunk.js.map",
   "static/js/1.f739feb7.chunk.js": "/climarestapi/static/js/1.f739feb7.chunk.js",
   "static/js/1.f739feb7.chunk.js.map": "/climarestapi/static/js/1.f739feb7.chunk.js.map",
   "runtime~main.js": "/climarestapi/static/js/runtime~main.7e54cdcc.js",
   "runtime~main.js.map": "/climarestapi/static/js/runtime~main.7e54cdcc.js.map",
   "static/css/main.e8630c50.chunk.css.map": "/climarestapi/static/css/main.e8630c50.chunk.css.map",
   "index.html": "/climarestapi/index.html",
-  "precache-manifest.91d33820ed3efd7384c9965e2b4428fc.js": "/climarestapi/precache-manifest.91d33820ed3efd7384c9965e2b4428fc.js",
+  "precache-manifest.1dddb0cb4a6e485ef39c640d9bfa5328.js": "/climarestapi/precache-manifest.1dddb0cb4a6e485ef39c640d9bfa5328.js",
   "service-worker.js": "/climarestapi/service-worker.js"
 }

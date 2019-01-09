@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/climarestapi/precache-manifest.91d33820ed3efd7384c9965e2b4428fc.js"
+  "/climarestapi/precache-manifest.1dddb0cb4a6e485ef39c640d9bfa5328.js"
 );
 
 workbox.clientsClaim();
