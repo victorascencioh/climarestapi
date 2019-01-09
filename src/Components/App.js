@@ -39,10 +39,10 @@ class App extends Component {
         
         //query fecth api
 
-        fetch(url , {mode: 'no-cors'})
+        fetch(url ,{mode: 'no-cors'})
         .then( respuesta => {
           console.log("Respuesta : ",respuesta);
-          
+          return respuesta.json();
         })
 
         // leer la url agregar el API key
